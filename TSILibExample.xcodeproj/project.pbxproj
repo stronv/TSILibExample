@@ -20,8 +20,6 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		7CBE8A2C2E8A5C7500A78EF2 /* Sources */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
 			path = Sources;
 			sourceTree = "<group>";
 		};
@@ -71,7 +69,6 @@
 				60F0183DE2D622146A654A39 /* Pods-TSILibExample.debug.xcconfig */,
 				00F18E0F81C5BEBD04FA98BF /* Pods-TSILibExample.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
