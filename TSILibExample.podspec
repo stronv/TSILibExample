@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'TSILibExample'
-  s.version = '1.0.1'
+  s.version = '1.0.2'
   s.license = 'MIT'
   s.summary = 'A framework for example for iOS third sem students.'
   s.homepage = 'https://github.com/stronv/TSILibExample'

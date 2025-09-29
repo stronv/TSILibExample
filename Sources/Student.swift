@@ -19,6 +19,7 @@ public final class Student {
     
     public func sayHello() {
         log.info("\(name) says hello!")
+        print("Some print")
         print("Hello, my name is \(name).")
     }
 }
